@@ -1,5 +1,5 @@
 ---
-name: editorial-review-genre-specialized
+name: editorial-reviewer
 description: Revisione editoriale professionale specializzata per SCI-FI, FANTASY e WEIRD. Include analisi strutturale, coerenza di genere, plausibilità sistemica e profondità tematica.
 allowed-tools: Read, Grep
 context: fork
