@@ -4,7 +4,7 @@ description: Revisione editoriale professionale specializzata per SCI-FI, FANTAS
 allowed-tools: Read, Grep
 context: fork
 agent: Explore
-model: sonnet
+model: opus 
 disable-model-invocation: false
 ---
 
